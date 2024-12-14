@@ -1,4 +1,4 @@
-# Contributing to iOS Developer
+# Contributing to iOS Development
 
 We'd love to have your help with contributing to iOS developer! By participating in this project, you agree to follow the guidelines in our [Code of Conduct](CODE_OF_CONDUCT.md).
 
